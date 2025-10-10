@@ -23,6 +23,8 @@ A collection of 17 advanced **Power BI dashboards** demonstrating expertise in *
 - Problem solving and communication: transforming raw data into insights  
 - Financial Analysis & Performance Metrics  
 
+<img width="800" height="452" alt="Financial Report Dashboard" src="https://github.com/user-attachments/assets/ced47306-b246-4ca6-8740-696288b0196a" />
+
 ## Who Can Use This
 Ideal for students, data analysts, BI professionals, and organizations interested in applying **data-driven insights** for operational and strategic improvement.
 
