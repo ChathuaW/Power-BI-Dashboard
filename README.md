@@ -25,6 +25,8 @@ A collection of 17 advanced **Power BI dashboards** demonstrating expertise in *
 
 <img width="800" height="452" alt="Financial Report Dashboard" src="https://github.com/user-attachments/assets/ced47306-b246-4ca6-8740-696288b0196a" />
 
+![Human Resources Dashboard](https://github.com/user-attachments/assets/95df083c-26ba-48c2-a749-ffd8aed93e91)
+
 ## Who Can Use This
 Ideal for students, data analysts, BI professionals, and organizations interested in applying **data-driven insights** for operational and strategic improvement.
 
